@@ -206,7 +206,7 @@ export default class IndexPage extends React.Component {
                 </p>{" "}
                 <div className="justify-content-center mr-auto text-center">
                   <i className="fas fa-envelope fa-3x mb-3 text-muted"></i>
-                  <a className="d-block" href="mailto:jdmoss@gmail.com">
+                  <a className="d-block" href="mailto:jdmoss86@gmail.com">
                     jdmoss86@gmail.com
                   </a>
                 </div>
