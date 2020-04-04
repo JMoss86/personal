@@ -100,7 +100,7 @@ export default class IndexPage extends React.Component {
                   <i className="fas fa-4x fa-gem text-primary mb-4"></i>
                   <h3 className="h4 mb-2">Java</h3>
                   <p className="text-white mb-0">
-                    I have over four years experience coding in Java.
+                    I have over five years experience coding in Java.
                   </p>
                 </div>
               </div>
@@ -151,7 +151,8 @@ export default class IndexPage extends React.Component {
             <div className="row justify-content-center">
               <div className="col-lg-5 text-center">
                 <h2 className="text-white mt-0">
-                  I sure do have a resume! My dragon friend here has it.
+                  I sure do have a resume! My dragon friend here has it. Go
+                  ahead, click on her.
                 </h2>
                 <hr className="divider light my-4" />
               </div>
