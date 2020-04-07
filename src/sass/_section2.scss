@@ -1,0 +1,15 @@
+// Styling for section2
+header.section2 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - #{$navbar-height});
+  background: linear-gradient(
+      to bottom,
+      #{fade-out($green, 0.2)} 0%,
+      #{fade-out($purple, 0.2)} 100%
+    ),
+    url("../images/bg2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}

@@ -1,0 +1,9 @@
+// Styling for page
+header.page {
+  background: linear-gradient(
+      to bottom,
+      #{fade-out($green, 0.2)} 0%,
+      #{fade-out($green, 0.2)} 100%
+    ),
+    url("../images/bg1.jpg");
+}

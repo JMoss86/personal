@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/gatsby-creative`,
   siteMetadata: {
-    title: `Jonathan Moss, junior developer`,
+    title: `Junior Developer`,
     description: `This is my personal site, made with Gatsby.`,
     author: `Jonathan Moss`,
   },
