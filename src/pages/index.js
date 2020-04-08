@@ -375,7 +375,7 @@ export default class IndexPage extends React.Component {
               </div>
               <div className="row justify-content-center">
                 <button
-                  className="btn btn-secondary btn-xl js-scroll-trigger"
+                  className="btn btn-primary btn-xl js-scroll-trigger"
                   onClick={this.handleModalClose.bind(this, 0)}
                 >
                   Looks impressive!
