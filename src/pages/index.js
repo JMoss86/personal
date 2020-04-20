@@ -386,7 +386,7 @@ export default class IndexPage extends React.Component {
                           className="text-white-50 mb-4"
                         >
                           <i>Applejack's Ranch,</i> a starter site I built for
-                          my first client. Also uses Gatsby.
+                          my first client. Uses Gatsby and Contentful.
                         </a>
                       </li>
                       <li>
