@@ -372,6 +372,37 @@ export default class IndexPage extends React.Component {
                     </ul>
                   </p>
                 </div>
+                <div className="col-lg-12">
+                  <p className="text-white-50 mb-4">
+                    <b>
+                      <u>OTHER WORK</u>
+                    </b>
+                    <br />
+                    <ul>
+                      <li>
+                        <a
+                          href="https://applejack.netlify.app/"
+                          target="_blank"
+                          className="text-white-50 mb-4"
+                        >
+                          <i>Applejack's Ranch,</i> a starter site I built for
+                          my first client. Also uses Gatsby.
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href="https://simplemoss.netlify.app/"
+                          target="_blank"
+                          className="text-white-50 mb-4"
+                        >
+                          <i>SimpleMoss,</i> which is basically this page, but
+                          vastly simplified. Uses only HTML, CSS, and
+                          JavaScript.
+                        </a>
+                      </li>
+                    </ul>
+                  </p>
+                </div>
               </div>
               <div className="row justify-content-center">
                 <button
