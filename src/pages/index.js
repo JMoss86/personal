@@ -400,6 +400,17 @@ export default class IndexPage extends React.Component {
                           JavaScript.
                         </a>
                       </li>
+                      <li>
+                        <a
+                          href="https://covenantofgrace.netlify.app/"
+                          target="_blank"
+                          className="text-white-50 mb-4"
+                        >
+                          <i>Covenant of Grace Christian Fellowship,</i> an
+                          improved version of the website for my father's
+                          church.
+                        </a>
+                      </li>
                     </ul>
                   </p>
                 </div>
